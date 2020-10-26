@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    line-height:1.2;
+
+}
+body{
+    background-color: black;
+    color: rgb(158, 140, 113);
+}
+.contactform{
+    margin-top:200px;
+    margin-left: 500px;
+    height:300px;
+    width: 500px;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(135, 166, 222);
+    line-height: 4;
+
+
+    
+    
+    
+}
+.fname{
+
+
+    color:black;
+    align-items: center;
+    justify-content: center;
+    
+}
+.lname{
+    line-height: 1.2;
+
+}
+
+.btn{
+    margin-left: 200px;
+    color: red;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    color:black;
+    text-align: center;
+}
